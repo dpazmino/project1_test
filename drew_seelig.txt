@@ -1,2 +1,5 @@
 drew_seelig
-Giter Dun
+
+Group = Omar, Charles, Don, Anshuman, Drew
+Group Name = Giter Dun
+Group Project = Start up firms analysis
