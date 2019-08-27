@@ -1,0 +1,3 @@
+Group name = Group_united
+Group members = Shilpa, Jingyi, Ko, Kevin, Daniel(me)
+Project Idea = Understanding and Analyze the new york air bnb data
