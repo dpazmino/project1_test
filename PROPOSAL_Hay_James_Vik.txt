@@ -1,0 +1,12 @@
+Our employer has asked us to do research into app stores and to figure out if we should develop an app for the apple store or for google play store. 
+
+We are going to make a comparitive analysis of the two stores to figure out which markets are making the most money, and where there may be opportunity for our company to make its mark. We will do analysis by rank, by genre and by popularity for each store, then use that data to compare the stores to each other in order to find out where the most fertile markets are. 
+
+With this analysis we will help our company make its best app yet!
+
+
+
+Dataset:
+
+https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
+https://www.kaggle.com/lava18/google-play-store-apps
