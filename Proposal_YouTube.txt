@@ -1,0 +1,29 @@
+"Trends in YouTube Videos"
+
+Proposal:
+
+Using data from user interactions we will analyze the differences and similarities on Trending YouTube videos across the globe. 
+
+We will be analyzing but not limiting ourselves to the following:
+
+  Patterns with increased views during certain time of the year (seasons)
+  
+  During what times(am, pm) are people viewing the videos
+    
+  Finding the category of the highest trending videos based on their category ID
+  
+  Doing a comparison of likes and dislike vs. views and comments
+  
+  Likes vs Dislikes based on trending dates
+ 
+  Likes vs Dislikes based on Published times 
+
+  Comparisons of trending views by countries
+
+Overall, we'd like to see which types of videos are being viewed the most depending on the country.
+
+Links:
+https://www.kaggle.com/datasnaek/youtube
+
+
+
