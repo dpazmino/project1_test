@@ -1,11 +1,2 @@
 Alyssia Smith
 Eilish Boyd
-
-"Trends on YouTube Videos"
-
-Proposal:
-
-
-
-Links:
-https://www.kaggle.com/datasnaek/youtube
