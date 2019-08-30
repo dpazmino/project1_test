@@ -16,7 +16,7 @@ We will be analyzing but not limiting ourselves to the following:
   
   Doing a comparison of likes and dislike vs. views and comments
   
-  Likes vs Dislikes: based on trending dates, upload/publish time, title length
+  Likes vs Dislikes: based on trending dates, upload/publish time, title length and common keywords used in titles of trending videos.
 
   Comparisons of trending views by countries
 
