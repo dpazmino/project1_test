@@ -2,6 +2,7 @@ project 1
 
 Property Valuation and Assessment Data Tax Classes 1,2,3,4
 
-Real Estate Assessment Property data represent NYC properties assessments for purpose to calculate Property Tax, Grant eligible properties Exemptions and/or Abatements. 
+Real Estate Assessment Property data represent NYC properties assessments for purpose to calculate Property Tax, 
+Grant eligible properties Exemptions and/or Abatements. 
 
 source:https://data.cityofnewyork.us/City-Government/Property-Valuation-and-Assessment-Data-Tax-Classes/8y4t-faws
