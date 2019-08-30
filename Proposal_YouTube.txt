@@ -26,6 +26,7 @@ Overall, we'd like to see which types of videos are being viewed the most depend
 
 Links:
 https://www.kaggle.com/datasnaek/youtube
-
+https://www.kaggle.com/libinmathew264/youtube-top-4000-channels-based-on-subscribers
+https://www.kaggle.com/ammar111/youtube-trending-videos-analysis
 
 
